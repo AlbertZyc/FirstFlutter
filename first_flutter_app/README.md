@@ -1,6 +1,7 @@
 # first_flutter_app
 
 A new Flutter application.
+Just for learning Git and cross-platform development.
 
 ## Getting Started
 
